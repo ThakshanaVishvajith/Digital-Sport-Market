@@ -1,7 +1,7 @@
-# Digital-Sport-Market
+### **Digital-Sport-Market**
 
 #
-# Scope of the Project 
+#### *Scope of the Project* 
 #
 # The proposed mobile application aims to provide both users and sports complexes with a user-friendly, convenient platform where sports  complexes can display their available facilities, such as badminton courts, basketball courts, gyms, and swimming pools.
 #
@@ -9,15 +9,15 @@
 #
 #
 #
-#  Objectives of the Application 
+####  *Objectives of the Application* 
 
 #  The objectives of the proposed mobile application are mainly: 
-# • To provide users with a convenient platform that facilitates booking of a sports complex’s facilities. 
-# • To provide users with a user-friendly platform to locate desired facilities and their availability.  
-# • To enable users to request bookings for available time slots.  
-# • To assist sports complexes to efficiently communicate, manage, and confirm bookings.  
-# • To make the process of finding and booking sports facilities much easier and faster. 
-# • To promote physical activity and health by increasing the accessibility to facilities through an efficient easy-to-use digital platform.  
+# - To provide users with a convenient platform that facilitates #   # booking of a sports complex’s facilities. 
+# - To provide users with a user-friendly platform to locate desired   facilities and their availability.  
+# - To enable users to request bookings for available time slots.  
+# - To assist sports complexes to efficiently communicate, manage, and confirm bookings.  
+# - To make the process of finding and booking sports facilities much easier and faster. 
+# - To promote physical activity and health by increasing the accessibility to facilities through an efficient easy-to-use digital platform.  
 #
 #
 #
